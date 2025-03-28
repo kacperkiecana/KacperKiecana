@@ -1,6 +1,6 @@
 - 👋 Hi, my name is **Kacper**.
-- 🏫 I am **Sound Design student** at AMKP in Cracow and **Environmental Engineering** student at AGH.
-- 💻 My specialty is **field recording** and **recording music**.
+- 🏫 I am **Sound Design** student at AMKP in Cracow and **Environmental Engineering** student at AGH.
+- 💻 My specialties are **field recordings** and **recording music**.
 - 🎮 Member of **AGH Code Industry**.
 - ⚽ My interests are **jazz music**, **football** and **a good movie**.
 - 🎶 I'm also **pianist** and **drums** player.
